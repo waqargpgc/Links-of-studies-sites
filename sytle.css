@@ -1,0 +1,57 @@
+body {
+    background-color: #b1b1b1;
+}
+
+.section {
+    min-height: 14em;
+}
+
+.lead {
+    margin: -2.5em auto 0 auto;
+}
+
+.card {
+    margin: 0 .5% 1px 21%;
+}
+
+#navigation {
+    width: 20%;
+    margin-left: .5%;
+}
+
+.pos-f-t {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.nav-link {
+    /*    border: 2px solid red;*/
+    width: 100%;
+    background-color: #aaaaaa;
+    text-align: center;
+}
+
+a:visited,
+a:link {
+    background-color: #c6c3c2;
+    color: darkslategray;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+a:hover {
+    background-color: dimgray;
+    color: white;
+}
+
+.btn {
+    margin: .1em .2em .1em 3em;
+    min-width: 14em;
+}
